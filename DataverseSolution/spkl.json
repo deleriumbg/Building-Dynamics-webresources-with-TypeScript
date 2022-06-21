@@ -1,0 +1,15 @@
+{
+  "webresources": [
+    {
+      "profile": "default,debug",
+      "solution": "typescriptwebresources",
+      "files": [
+        {
+          "uniquename": "del_/js/clienthooks.js",
+          "file": "../clientjs/dist/clienthooks.js",
+          "description": "JavaScript for Forms and Commandbar Actions"
+        }
+      ]
+    }
+  ]
+}
